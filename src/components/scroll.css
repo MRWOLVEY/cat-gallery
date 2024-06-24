@@ -1,0 +1,10 @@
+.scroll{
+    overflow: scroll;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 800px;
+}
+
+div::-webkit-scrollbar {
+    display: none;
+}

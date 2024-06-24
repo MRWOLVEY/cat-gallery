@@ -1,0 +1,16 @@
+.grad{
+  background: rgb(247,94,160);
+  background: radial-gradient(circle, rgba(247,94,160,1) 0%, rgba(198,50,152,1) 100%);
+}
+
+@font-face {
+  font-family: 'Kerlo Glued Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Kerlo Glued Regular'), url('KerloGluedRegular-9MX0L.woff') format('woff');
+  }
+
+h1{
+  font-family: 'Kerlo Glued Regular';
+  font-weight: 300;
+}
