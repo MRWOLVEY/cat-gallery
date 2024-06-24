@@ -1,5 +1,5 @@
 # Cat Gallery
-
+---
 **project describtion**:
 
 this is a simple project made using **React.js** in the [**ZTM Complete Web Developer course**](https://zerotomastery.io/courses/coding-bootcamp/) by [*Andrei Neagoie*](https://zerotomastery.io/about/instructor/andrei-neagoie/)
