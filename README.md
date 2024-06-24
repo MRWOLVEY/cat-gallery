@@ -2,7 +2,8 @@
 ---
 **project describtion**:
 
-this is a simple project made using **React.js** in the [**ZTM Complete Web Developer course**](https://zerotomastery.io/courses/coding-bootcamp/) by [*Andrei Neagoie*](https://zerotomastery.io/about/instructor/andrei-neagoie/)
+this is a simple project made using **React.js** in the [**ZTM Complete Web Developer course**](https://zerotomastery.io/courses/coding-bootcamp/) by [*Andrei Neagoie*](https://zerotomastery.io/about/instructor/andrei-neagoie/).
+this project was built using [Vite](https://vitejs.dev/guide/)
 ---
 in this project i've learnt about:
 - React and React-dom
